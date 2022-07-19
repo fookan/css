@@ -262,3 +262,38 @@
 	c0,150.9,152.2,190.5,256,339.7c98.1-148.3,256-193.6,256-339.7C512,92.2,451.8,32,377.6,32L377.6,32z"/>
 </svg>
 ```
+
+twitter-loop
+```
+
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#8A9AA4;}
+</style>
+<title></title>
+<g id="icomoon-ignore">
+</g>
+<path class="st0" d="M64,160h320v96l128-128L384,0v96H0v192h64V160z M448,352H128v-96L0,384l128,128v-96h384V224h-64V352z"/>
+</svg>
+```
+
+twitter-bubble
+```
+
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#8A9AA4;}
+</style>
+<title></title>
+<g id="icomoon-ignore">
+</g>
+<path class="st0" d="M256,32c141.4,0,256,93.1,256,208S397.4,448,256,448c-13.6,0-26.9-0.9-39.9-2.5c-55,55-120.6,64.9-184.1,66.3
+	v-13.5c34.3-16.8,64-47.4,64-82.3c0-4.9-0.4-9.7-1.1-14.3C37,363.5,0,305.3,0,240C0,125.1,114.6,32,256,32L256,32z"/>
+</svg>
+```
